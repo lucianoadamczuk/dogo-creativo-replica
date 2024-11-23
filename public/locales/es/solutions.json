@@ -1,0 +1,110 @@
+{
+	"header": {
+		"title": "Hacemos que las empresas sean lo mejor que pueden ser",
+		"image": "/images/solutions/header.jpg",
+		"alt": "Un periódico"
+	},
+	"solutions_services": [
+		{
+			"title": "Estrategia de Influencers",
+			"paragraph": "Nuestros artistas componen la mayor audiencia de habla hispana, con más de 26 millones de personas interactuando.",
+			"items": [
+				"Conceptualización",
+				"Viralidad",
+				"Coincidencia de marcas e influencers",
+				"Generación de opiniones y reacciones",
+				"Estadísticas",
+				"Prensa y promoción"
+			]
+		},
+		{
+			"title": "Marketing Político",
+			"paragraph": "Estamos educados y preparados para la paz, y no preparados en absoluto para lo que enfrentamos en el mundo real.",
+			"items": [
+				"Estrategia",
+				"Encuestas",
+				"Gobiernos, partidos políticos",
+				"Presidentes",
+				"Gobernadores, alcaldes",
+				"Senadores y representantes"
+			]
+		},
+		{
+			"title": "APPs (iOS & Android)",
+			"paragraph": "Después de una década, comienza un cambio de paradigma en la comunicación online y en el uso de la inteligencia artificial.",
+			"items": [
+				"Los mejores desarrolladores de apps en Miami, Florida",
+				"Integración con redes sociales",
+				"Geolocalización",
+				"Mensajes push",
+				"Aplicaciones dentro de apps",
+				"Juegos interactivos",
+				"E-commerce (Amazon, Shopify, Etc.)",
+				"Eventos, mapas y más"
+			]
+		},
+		{
+			"title": "Diseño Editorial",
+			"paragraph": "El concepto creativo es uno de los aspectos más importantes en el marketing y éxito de la publicación de tu libro.",
+			"items": [
+				"Diseño profesional de portadas (eBook y en papel)",
+				"JPG de alta resolución y PDF listo para impresión",
+				"Maquetación profesional para impresión",
+				"Diseño de contraportada y lomos",
+				"Conceptualización",
+				"Renderizado 3D de libros para redes sociales"
+			]
+		},
+		{
+			"title": "Contenido de Marca",
+			"paragraph": "La importancia de generar contenido que responda a historias que son experiencias y nuevas formas de conexión.",
+			"items": [
+				"Proyectos especiales e interactivos",
+				"Animación y videos inmersivos",
+				"Gamificación, realidad virtual",
+				"Estrategias 360",
+				"Influencers y marketing político",
+				"Drones"
+			]
+		},
+		{
+			"title": "Estrategia de Redes Sociales",
+			"paragraph": "Creamos estrategias claras que toman en cuenta tus objetivos, tus clientes y lo que está haciendo tu competencia.",
+			"items": [
+				"Generación de marca en redes sociales",
+				"Publicidad",
+				"Desarrollo de contenido",
+				"Gestión de comunidades",
+				"Métricas y análisis de datos",
+				"Plan estratégico"
+			]
+		},
+		{
+			"title": "Desarrollo de Metaverso",
+			"paragraph": "Ayudamos a las empresas a crear y operar sus nuevos espacios virtuales, donde pueden extender la presencia, propuestas y creatividad de su marca.",
+			"items": [
+				"Empresas de desarrollo de Blockchain",
+				"Block Art by Dogo Creativo: Un NFT único y exclusivo de arte digital.",
+				"NFT (Token no Fungible)",
+				"Wearables de marca",
+				"Espacios digitales",
+				"Blockchain",
+				"Brandverse",
+				"Web 3.0"
+			]
+		},
+		{
+			"title": "Branding y Diseño Gráfico",
+			"paragraph": "No miramos solo un aspecto de una marca. Consideramos toda la experiencia. Cómo una marca se ve, habla, se comporta, siente y sueña. Medición del conocimiento de marca.",
+			"items": [
+				"¡Dogo Creativo está en el #Top10 de agencias de branding en Nueva York!",
+				"Logos e iconografía",
+				"Manual de marca",
+				"Imagen de marca",
+				"Packaging y diseño de productos",
+				"Publicidad y creatividad",
+				"Libros, portadas y revistas"
+			]
+		}
+	]
+}

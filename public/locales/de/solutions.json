@@ -1,0 +1,110 @@
+{
+	"header": {
+		"title": "Wir machen Unternehmen zu dem Besten, was sie sein können",
+		"image": "/images/solutions/header.jpg",
+		"alt": "Eine Zeitung"
+	},
+	"solutions_services": [
+		{
+			"title": "Influencer-Strategie",
+			"paragraph": "Unsere Künstler bilden das größte spanischsprachige Publikum, mit mehr als 26 Millionen Menschen, die interagieren.",
+			"items": [
+				"Konzeption",
+				"Viralität",
+				"Marken- und Influencer-Zuordnung",
+				"Generierung von Meinungen und Reaktionen",
+				"Statistiken",
+				"Presse und Promotion"
+			]
+		},
+		{
+			"title": "Politisches Marketing",
+			"paragraph": "Wir sind gebildet und vorbereitet für den Frieden, aber nicht auf das, was wir in der realen Welt erwarten.",
+			"items": [
+				"Strategie",
+				"Umfragen",
+				"Regierungen, politische Parteien",
+				"Präsidenten",
+				"Gouverneure, Bürgermeister",
+				"Senatoren und Abgeordnete"
+			]
+		},
+		{
+			"title": "Apps (iOS & Android)",
+			"paragraph": "Nach einem Jahrzehnt beginnt ein Paradigmenwechsel in der Online-Kommunikation und der Nutzung von Künstlicher Intelligenz.",
+			"items": [
+				"Top-App-Entwickler in Miami, Florida",
+				"Integration von sozialen Medien",
+				"Geolokalisierung",
+				"Push-Benachrichtigungen",
+				"In-App-Apps",
+				"Interaktive Spiele",
+				"E-Commerce (Amazon, Shopify, etc.)",
+				"Veranstaltungen, Karten und mehr"
+			]
+		},
+		{
+			"title": "Editorial Design",
+			"paragraph": "Das kreative Konzept ist eines der wichtigsten Aspekte im Marketing und Erfolg bei der Veröffentlichung deines Buches.",
+			"items": [
+				"Professionelles Cover-Design (eBook & Print)",
+				"Hochauflösende JPG- und druckfertige PDF",
+				"Professionelles Drucklayout",
+				"Design von Rückseiten und Rücken",
+				"Konzeption",
+				"3D-Rendering von Büchern für soziale Medien"
+			]
+		},
+		{
+			"title": "Branded Content",
+			"paragraph": "Die Bedeutung der Erstellung von Inhalten, die auf Geschichten reagieren, die Erfahrungen und neue Formen der Verbindung sind.",
+			"items": [
+				"Besondere und interaktive Projekte",
+				"Animation und immersive Videos",
+				"Gamification, virtuelle Realität",
+				"360-Strategien",
+				"Influencer und politisches Marketing",
+				"Drohnen"
+			]
+		},
+		{
+			"title": "Social Media Strategie",
+			"paragraph": "Wir erstellen klare Strategien, die deine Ziele, deine Kunden und das, was deine Konkurrenz tut, berücksichtigen.",
+			"items": [
+				"Markenbildung in sozialen Medien",
+				"Werbung",
+				"Content-Entwicklung",
+				"Community-Management",
+				"Metriken und Datenanalyse",
+				"Strategischer Plan"
+			]
+		},
+		{
+			"title": "Metaverse-Entwicklung",
+			"paragraph": "Wir helfen Unternehmen dabei, ihre neuen virtuellen Räume zu schaffen und zu betreiben, in denen sie die Präsenz, Vorschläge und Kreativität ihrer Marke erweitern können.",
+			"items": [
+				"Blockchain-Entwicklungsunternehmen",
+				"Block Art von Dogo Creativo: Ein einzigartiges und exklusives NFT von digitaler Kunst.",
+				"NFT (Non Fungible Token)",
+				"Marken-Wearables",
+				"Digitale Räume",
+				"Blockchain",
+				"Brandverse",
+				"Web 3.0"
+			]
+		},
+		{
+			"title": "Branding und Grafikdesign",
+			"paragraph": "Wir betrachten nicht nur einen Aspekt einer Marke. Wir betrachten das gesamte Erlebnis. Wie eine Marke aussieht, spricht, sich verhält, fühlt und träumt. Messung der Markenbekanntheit.",
+			"items": [
+				"Dogo Creativo ist in den Top 10 der Branding-Agenturen in New York!",
+				"Logos und Ikonographie",
+				"Markenhandbuch",
+				"Marken-Look & Feel",
+				"Produktverpackung und Design",
+				"Werbung und Kreativität",
+				"Bücher, Cover und Magazine"
+			]
+		}
+	]
+}
