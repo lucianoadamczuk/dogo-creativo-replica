@@ -1,0 +1,35 @@
+.section {
+  display: grid;
+  place-items: center;
+  gap: var(--space-lg);
+  padding: var(--space-y) var(--space-x);
+}
+
+.title {
+  font-size: var(--size-title);
+}
+
+@media (min-width: 1024px) and (orientation: landscape) {
+  .section {
+    display: grid;
+    grid-template-columns: 1fr 1.6fr;
+    grid-template-areas:
+      "contentContainer carousel"
+      "button carousel";
+    gap: var(--space-sm) var(--space-xl);
+  }
+
+  .contentContainer {
+    grid-area: contentContainer;
+    place-self: end;
+  }
+
+  .section > button {
+    grid-area: button;
+    place-self: start;
+  }
+
+  .carousel {
+    grid-area: carousel;
+  }
+}

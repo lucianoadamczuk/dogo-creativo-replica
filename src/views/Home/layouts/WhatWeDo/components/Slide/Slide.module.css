@@ -1,0 +1,26 @@
+.slide {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--space-md);
+  height: 100%;
+}
+
+.title {
+  font-size: var(--size-subtitle);
+}
+
+.paragraph {
+  color: var(--color-muted);
+}
+
+.list {
+  margin-top: var(--space-md);
+}
+
+.image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}

@@ -1,0 +1,140 @@
+{
+  "header": {
+    "title": "Somos una agencia de servicio completo",
+    "paragraph": "Ya sea que tengas una empresa establecida o una en crecimiento, descubre nuestro potencial para lograr grandes resultados en Diseño, Publicidad, Estrategias Digitales y Desarrollo en el Metaverso.",
+    "btn": "Ver nuestras soluciones",
+    "alt": "múltiples diseños"
+  },
+
+  "whatWeDo": {
+    "title": "Qué hacemos",
+    "paragraph": "Nos especializamos en ofrecer soluciones innovadoras que combinan creatividad y tecnología. Desde branding y marketing digital hasta diseño y desarrollo web de vanguardia, creamos estrategias únicas para mejorar la presencia de tu marca y conectar con tu audiencia.",
+    "btn": "Ver más",
+    "carousel": [
+      {
+        "src": "/images/home/carousel/political-strategy.jpg",
+        "alt": "Una reunión de estrategia con líderes políticos",
+        "title": "Estrategia Política",
+        "paragraph": "Estamos educados y preparados para la paz, pero no del todo preparados para lo que enfrentamos en el mundo real.",
+        "items": [
+          "Estrategia",
+          "Encuestas",
+          "Gobiernos, Partidos Políticos",
+          "Presidentes",
+          "Gobernadores, Alcaldes",
+          "Senadores y Representantes"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/metaverse-development.jpg",
+        "alt": "Un espacio virtual con diseños futuristas",
+        "title": "Desarrollo en el Metaverso",
+        "paragraph": "Ayudamos a las empresas a crear y operar sus nuevos espacios virtuales, donde pueden extender la presencia, propuestas y creatividad de su marca.",
+        "items": [
+          "NFT (Token No Fungible)",
+          "Ropa de marca digital",
+          "Espacios digitales",
+          "Blockchain",
+          "Brandverse",
+          "Web 3.0"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/branding-graphic-design.jpg",
+        "alt": "Herramientas creativas y diseños de marca",
+        "title": "Branding y Diseño Gráfico",
+        "paragraph": "No nos fijamos en un solo aspecto de una marca. Consideramos toda la experiencia: cómo se ve, habla, se comporta, siente y sueña.",
+        "items": [
+          "Logotipos e iconografía",
+          "Manual de marca",
+          "Look & Feel de la marca",
+          "Empaque y diseño de productos",
+          "Publicidad y creatividad",
+          "Libros, portadas y revistas"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/branded-content.jpg",
+        "alt": "Creación de contenido para marcas",
+        "title": "Contenido de Marca",
+        "paragraph": "La importancia de generar contenido que responda a historias, experiencias y nuevas formas de conexión.",
+        "items": [
+          "Proyectos especiales e interactivos",
+          "Animación y videos inmersivos",
+          "Gamificación, realidad virtual",
+          "Estrategias 360",
+          "Influencers y marketing político",
+          "Drones"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/interactive-web-development.jpg",
+        "alt": "Diseño web en múltiples dispositivos",
+        "title": "Desarrollo Web Interactivo",
+        "paragraph": "Diseñamos experiencias que revolucionan el mundo digital. Desde experiencias web hasta comercio electrónico.",
+        "items": [
+          "Diseño web responsivo",
+          "Sistema de gestión de contenidos",
+          "E-commerce",
+          "Desarrollo de marcas digitales",
+          "Páginas de aterrizaje interactivas",
+          "Gestión de relaciones con clientes (CRM)"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/social-media-strategy.jpg",
+        "alt": "Planificación de estrategias en redes sociales",
+        "title": "Estrategia en Redes Sociales",
+        "paragraph": "Creamos estrategias claras que tienen en cuenta tus objetivos, tus clientes y lo que está haciendo tu competencia.",
+        "items": [
+          "Generación de marca en redes sociales",
+          "Publicidad",
+          "Desarrollo de contenido",
+          "Gestión de comunidades",
+          "Análisis de métricas y datos",
+          "Plan estratégico"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/apps.jpg",
+        "alt": "Interfaz de app móvil en un teléfono",
+        "title": "APPS (iOS & Android)",
+        "paragraph": "Tras una década, comienza un cambio de paradigma en la comunicación online y el uso de inteligencia artificial.",
+        "items": [
+          "Integración con redes sociales",
+          "Geolocalización",
+          "Mensajes push",
+          "In-apps",
+          "Juegos interactivos",
+          "E-commerce (Amazon, Shopify, Etc.)",
+          "Eventos, mapas y más"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/editorial-design.jpg",
+        "alt": "Diseños creativos de libros",
+        "title": "Diseño Editorial",
+        "paragraph": "El concepto creativo es uno de los aspectos más importantes en el marketing y éxito de la publicación de tu libro.",
+        "items": [
+          "Diseño profesional de portadas",
+          "PDF listo para impresión en alta resolución",
+          "Maquetación profesional para impresión",
+          "Diseño de contraportada y lomo",
+          "Conceptualización",
+          "Renderizado 3D de libros"
+        ]
+      }
+    ]
+  },
+
+  "recognitions": {
+    "title": "Premios y reconocimientos obtenidos en el camino",
+    "paragraph": "“El secreto de la alegría en el trabajo está contenido en una palabra: excelencia. Saber hacer algo bien es disfrutarlo.” ― Pearl S. Buck"
+  },
+
+  "experience": {
+    "title": "Creatividad y experiencias que conectan",
+    "paragraph": "Apasionadamente innovadores y curiosos sin descanso, Dogo Creativo busca descubrir la conexión en todo lo que hacemos. Explora nuestro trabajo para ver cómo unimos a las personas a través de plataformas, experiencias y culturas.",
+    "btn": "Nuestra experiencia"
+  }
+}

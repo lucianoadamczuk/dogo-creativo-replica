@@ -1,0 +1,140 @@
+{
+  "header": {
+    "title": "We are a full service agency",
+    "paragraph": "Whether you have an established company or a growing company, discover our potential to achieve great results in Design, Advertising, Digital Strategies and Metaverse Development.",
+    "btn": "See our solutions",
+    "alt": "multiple layouts"
+  },
+
+  "whatWeDo": {
+    "title": "What we do",
+    "paragraph": "we specialize in delivering innovative solutions that bridge creativity and technology. From branding and digital marketing to cutting-edge web design and development, we craft unique strategies tailored to enhance your brand's presence and connect with your audience. ",
+    "btn": "See more",
+    "carousel": [
+      {
+        "src": "/images/home/carousel/political-strategy.jpg",
+        "alt": "A strategy meeting with political leaders",
+        "title": "Political Strategy",
+        "paragraph": "We are educated and prepared for peace, and not prepared at all for what we face in the real world.",
+        "items": [
+          "Strategy",
+          "Surveys",
+          "Governments, Political Parties",
+          "Presidents",
+          "Governors, Mayors",
+          "Senators and Representatives"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/metaverse-development.jpg",
+        "alt": "A virtual space with futuristic designs",
+        "title": "Metaverse Development",
+        "paragraph": "We help companies to create and operate their new virtual spaces, where they can extend the presence, proposals and creativity of their brand.",
+        "items": [
+          "NFT (Non Fungible Token)",
+          "Brand Wearables",
+          "Digital Spaces",
+          "Blockchain",
+          "Brandverse",
+          "Web 3.0"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/branding-graphic-design.jpg",
+        "alt": "Creative tools and branding designs",
+        "title": "Branding & Graphic Design",
+        "paragraph": "We don't look at just one aspect of a brand. We consider the whole experience. How a brand Looks, Speaks, Behaves, Feels, and Dreams.",
+        "items": [
+          "Logos and Iconography",
+          "Brand manual",
+          "Brand Look & Feel",
+          "Product packaging and design",
+          "Advertising and creativity",
+          "Books, covers and magazines"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/branded-content.jpg",
+        "alt": "Content creation for branding",
+        "title": "Branded Content",
+        "paragraph": "The importance of generating content that responds to stories that are experiences and new forms of connection.",
+        "items": [
+          "Special and interactive projects",
+          "Animation and immersive videos",
+          "Gamification, virtual reality",
+          "360 Strategies",
+          "Influencers and political marketing",
+          "Drones"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/interactive-web-development.jpg",
+        "alt": "Web design on multiple devices",
+        "title": "Interactive Web Development",
+        "paragraph": "We design experiences that revolutionize the digital world. From web experiences to e-commerce.",
+        "items": [
+          "Responsive web design",
+          "Content management system",
+          "E-commerce",
+          "Digital brand development",
+          "Interactive landing pages",
+          "Customer Relationship Management"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/social-media-strategy.jpg",
+        "alt": "Social media strategy planning",
+        "title": "Social Media Strategy",
+        "paragraph": "We create clear strategies that take into account your goals, your customers and what your competition is doing.",
+        "items": [
+          "Brand generation in social media",
+          "Advertising",
+          "Content Development",
+          "Community management",
+          "Metrics and data analysis",
+          "Strategic plan"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/apps.jpg",
+        "alt": "Mobile app interface on a phone",
+        "title": "APPS (iOS & Android)",
+        "paragraph": "After a decade, a paradigm shift begins in online communication and in the use of artificial intelligence.",
+        "items": [
+          "Social Media Integration",
+          "Geolocation",
+          "Push Messages",
+          "In-apps",
+          "Interactive games",
+          "E-commerce (Amazon, Shopify, Etc)",
+          "Events, maps, and more"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/editorial-design.jpg",
+        "alt": "Creative book designs",
+        "title": "Editorial Design",
+        "paragraph": "The creative concept is one of the most important aspects in the marketing and success of publishing your book.",
+        "items": [
+          "Professional cover design",
+          "High ress print-ready PDF",
+          "Professional printing layout",
+          "Back-cover and spine design",
+          "Conceptualization",
+          "3D rendering of books"
+        ]
+      }
+    ]
+  },
+
+  "recognitions": {
+    "title": "Awards & recognitions we have earned along the way",
+    "paragraph": "“The secret of joy in work is contained in one word-excellence. To know how to do something well is to enjoy it.” ― Pearl S. Buck"
+  },
+
+  "experience": {
+    "title": "Creativity and experiences that connect",
+    "paragraph": "Passionately inventive and relentlessly curious, Dogo Creativo strives to uncover the connection in all we do. Explore our work to see how we unite people across platforms, experiences and cultures.",
+    "btn": "Our experience"
+  }
+}

@@ -1,0 +1,30 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: var(--space-y) var(--space-x);
+  min-height: 100vh;
+}
+
+.title {
+  font-size: var(--size-title);
+  text-align: center;
+}
+
+.highlighted {
+  background: linear-gradient(
+    to bottom,
+    var(--color-primary) 20%,
+    var(--color-primary-dark)
+  );
+  background-clip: text;
+  color: transparent;
+}
+
+.contactContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  margin-top: var(--space-md);
+}

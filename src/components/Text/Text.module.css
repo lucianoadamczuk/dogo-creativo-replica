@@ -1,0 +1,15 @@
+.animation {
+  animation: animateFadeIn;
+  animation-timeline: view();
+  animation-range: 40% entry 50% cover;
+  animation-fill-mode: both;
+}
+
+@keyframes animateFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

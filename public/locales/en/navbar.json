@@ -1,0 +1,24 @@
+{
+  "routes": [
+    {
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "name": "Solutions",
+      "path": "/solutions"
+    },
+    {
+      "name": "Our Experience",
+      "path": "/hire-me"
+    },
+    {
+      "name": "Team",
+      "path": "/hire-me"
+    },
+    {
+      "name": "Contact",
+      "path": "hire-me"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "header": {
+    "title": "Kami adalah agensi perkhidmatan penuh",
+    "paragraph": "Sama ada anda memiliki syarikat yang telah kukuh atau sedang berkembang, temui potensi kami untuk mencapai hasil yang hebat dalam Rekaan, Pengiklanan, Strategi Digital dan Pembangunan Metaverse.",
+    "btn": "Lihat penyelesaian kami",
+    "alt": "pelbagai susun atur"
+  },
+
+  "whatWeDo": {
+    "title": "Apa yang kami lakukan",
+    "paragraph": "Kami pakar dalam menyediakan penyelesaian inovatif yang menggabungkan kreativiti dan teknologi. Dari penjenamaan dan pemasaran digital hingga reka bentuk dan pembangunan web terkini, kami merangka strategi unik yang disesuaikan untuk meningkatkan kehadiran jenama anda dan berhubung dengan audiens anda.",
+    "btn": "Ketahui lebih lanjut",
+    "carousel": [
+      {
+        "src": "/images/home/carousel/political-strategy.jpg",
+        "alt": "Mesyuarat strategi dengan pemimpin politik",
+        "title": "Strategi Politik",
+        "paragraph": "Kami dididik dan disiapkan untuk keamanan, tetapi tidak bersedia untuk menghadapi apa yang kami hadapi di dunia sebenar.",
+        "items": [
+          "Strategi",
+          "Tinjauan",
+          "Kerajaan, Parti Politik",
+          "Presiden",
+          "Gabenor, Datuk Bandar",
+          "Senator dan Wakil Rakyat"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/metaverse-development.jpg",
+        "alt": "Ruang maya dengan reka bentuk futuristik",
+        "title": "Pembangunan Metaverse",
+        "paragraph": "Kami membantu syarikat mencipta dan mengurus ruang maya baru mereka, di mana mereka boleh mengembangkan kehadiran, cadangan, dan kreativiti jenama mereka.",
+        "items": [
+          "NFT (Token Tidak Fungible)",
+          "Pakaian Jenama",
+          "Ruang Digital",
+          "Blockchain",
+          "Brandverse",
+          "Web 3.0"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/branding-graphic-design.jpg",
+        "alt": "Alat kreatif dan reka bentuk jenama",
+        "title": "Penjenamaan & Reka Bentuk Grafik",
+        "paragraph": "Kami tidak hanya melihat satu aspek jenama. Kami mempertimbangkan keseluruhan pengalaman: bagaimana jenama kelihatan, bercakap, berkelakuan, dirasakan, dan bermimpi.",
+        "items": [
+          "Logo dan Ikonografi",
+          "Manual Jenama",
+          "Penampilan & Rasa Jenama",
+          "Rekaan dan pembungkusan produk",
+          "Pengiklanan dan kreativiti",
+          "Buku, kulit buku, dan majalah"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/branded-content.jpg",
+        "alt": "Penciptaan kandungan untuk jenama",
+        "title": "Kandungan Berjenama",
+        "paragraph": "Pentingnya mencipta kandungan yang merangkumi cerita, pengalaman, dan bentuk sambungan baru.",
+        "items": [
+          "Projek khas dan interaktif",
+          "Animasi dan video imersif",
+          "Permainan, realiti maya",
+          "Strategi 360",
+          "Pemasaran politik dan influencer",
+          "Dron"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/interactive-web-development.jpg",
+        "alt": "Rekaan laman web pada pelbagai peranti",
+        "title": "Pembangunan Web Interaktif",
+        "paragraph": "Kami mereka pengalaman yang merevolusikan dunia digital. Dari pengalaman laman web hingga e-dagang.",
+        "items": [
+          "Reka bentuk laman web responsif",
+          "Sistem pengurusan kandungan",
+          "E-dagang",
+          "Pembangunan jenama digital",
+          "Laman pendaratan interaktif",
+          "Pengurusan Hubungan Pelanggan"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/social-media-strategy.jpg",
+        "alt": "Perancangan strategi media sosial",
+        "title": "Strategi Media Sosial",
+        "paragraph": "Kami mencipta strategi jelas yang mengambil kira matlamat anda, pelanggan anda, dan apa yang dilakukan oleh pesaing anda.",
+        "items": [
+          "Penjanaan jenama dalam media sosial",
+          "Pengiklanan",
+          "Pembangunan Kandungan",
+          "Pengurusan komuniti",
+          "Analisis data dan metrik",
+          "Rancangan Strategik"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/apps.jpg",
+        "alt": "Antara muka aplikasi mudah alih pada telefon",
+        "title": "APPS (iOS & Android)",
+        "paragraph": "Selepas satu dekad, perubahan paradigma bermula dalam komunikasi dalam talian dan penggunaan kecerdasan buatan.",
+        "items": [
+          "Integrasi Media Sosial",
+          "Geolokasi",
+          "Mesej Tolak",
+          "Dalam aplikasi",
+          "Permainan interaktif",
+          "E-dagang (Amazon, Shopify, dan lain-lain)",
+          "Acara, peta, dan banyak lagi"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/editorial-design.jpg",
+        "alt": "Reka bentuk buku kreatif",
+        "title": "Reka Bentuk Editorial",
+        "paragraph": "Konsep kreatif adalah salah satu aspek paling penting dalam pemasaran dan kejayaan penerbitan buku anda.",
+        "items": [
+          "Reka bentuk kulit profesional",
+          "PDF siap cetak resolusi tinggi",
+          "Susun atur pencetakan profesional",
+          "Rekaan bahagian belakang dan tulang belakang buku",
+          "Pengkonsepan",
+          "Render 3D buku"
+        ]
+      }
+    ]
+  },
+
+  "recognitions": {
+    "title": "Anugerah & pengiktirafan yang kami perolehi sepanjang perjalanan",
+    "paragraph": "“Rahsia kegembiraan dalam kerja terkandung dalam satu perkataan—kecemerlangan. Mengetahui cara melakukan sesuatu dengan baik adalah untuk menikmatinya.” ― Pearl S. Buck"
+  },
+
+  "experience": {
+    "title": "Kreativiti dan pengalaman yang menghubungkan",
+    "paragraph": "Dengan penuh semangat inventif dan ingin tahu tanpa henti, Dogo Creativo berusaha untuk menemui hubungan dalam semua yang kami lakukan. Terokai kerja kami untuk melihat bagaimana kami menyatukan orang melalui platform, pengalaman dan budaya.",
+    "btn": "Pengalaman kami"
+  }
+}

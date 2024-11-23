@@ -1,0 +1,123 @@
+/* --------------------------------- colors --------------------------------- */
+:root {
+	--color-light: #ffffff;
+	--color-light-variant: #eeeeee;
+	--color-muted: gray;
+	--color-dark: #21262a;
+	--color-dark-transparent: #21262ac5;
+	--color-darker: #181a1d;
+	--color-primary: #f0353e;
+	--color-primary-dark: rgb(64, 2, 2);
+}
+
+/* ---------------------------------- sizes --------------------------------- */
+:root {
+	--size-title-big: clamp(4rem, 4rem + 2vw, 8rem);
+	--size-title: clamp(2.5rem, 2.5rem + 2vw, 4rem);
+	--size-subtitle: 2rem;
+	--size-base: 1.6rem;
+	--size-small: 1.3rem;
+}
+
+/* ------------------------------- typography ------------------------------- */
+@font-face {
+	font-style: normal;
+	font-weight: 400;
+	src: url('/fonts/Montserrat-Regular.ttf') format('truetype');
+	font-family: 'Montserrat';
+	font-display: swap;
+}
+
+/* Montserrat Bold */
+@font-face {
+	font-style: normal;
+	font-weight: 700;
+	src: url('/fonts/Montserrat-Bold.ttf') format('truetype');
+	font-family: 'Montserrat-Bold';
+	font-display: swap;
+}
+
+:root {
+	--font-title: 'Montserrat-Bold';
+	--font-base: 'Montserrat';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	line-height: 90%;
+	font-family: var(--font-title);
+	text-transform: uppercase;
+	text-wrap: balance;
+}
+
+/* --------------------------------- spaces --------------------------------- */
+:root {
+	--space-x: 5%;
+	--space-y: 100px;
+	--space-sm: 15px;
+	--space-md: 30px;
+	--space-lg: 50px;
+	--space-xl: 100px;
+}
+
+/* ---------------------------------- reset --------------------------------- */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	background-color: var(--color-light);
+	color: var(--color-dark);
+	font-size: var(--size-base);
+	font-family: var(--font-base);
+	text-wrap: pretty;
+}
+
+li {
+	margin-left: var(--space-x);
+	list-style-type: square;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* ---------------------------- view transitions ---------------------------- */
+@view-transition {
+	navigate: auto;
+}
+
+::view-transition-old(root) {
+	animation: animateOldPage 1s linear;
+}
+
+::view-transition-new(root) {
+	animation: animateNewPage 1s ease;
+}
+
+@keyframes animateOldPage {
+	to {
+		opacity: 0;
+		filter: blur(10px);
+	}
+}
+
+@keyframes animateNewPage {
+	0% {
+		opacity: 0;
+		filter: blur(10px);
+	}
+	100% {
+		opacity: 1;
+	}
+}

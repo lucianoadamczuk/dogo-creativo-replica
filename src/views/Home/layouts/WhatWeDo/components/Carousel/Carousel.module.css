@@ -1,0 +1,31 @@
+.carousel {
+  width: 100%;
+}
+
+.carousel :global(.swiper-wrapper) {
+  padding-bottom: var(--space-lg);
+}
+
+.carousel :global(.swiper-pagination-bullet) {
+  transition: 0.3s;
+  background-color: var(--color-muted);
+}
+
+.carousel :global(.swiper-pagination-bullet-active) {
+  border-radius: 5px;
+  background-color: var(--color-primary);
+  width: 25px;
+}
+
+.carousel :global(.swiper-slide) {
+  scale: 0.9;
+  opacity: 0.6;
+  filter: blur(2px);
+  transition: 0.5s;
+}
+
+.carousel :global(.swiper-slide-active) {
+  scale: 1;
+  opacity: 1;
+  filter: blur(0);
+}

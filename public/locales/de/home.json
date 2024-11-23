@@ -1,0 +1,140 @@
+{
+  "header": {
+    "title": "Wir sind eine Full-Service-Agentur",
+    "paragraph": "Egal, ob Sie ein etabliertes Unternehmen oder ein wachsendes Unternehmen haben, entdecken Sie unser Potenzial, großartige Ergebnisse in Design, Werbung, digitalen Strategien und Metaverse-Entwicklung zu erzielen.",
+    "btn": "Unsere Lösungen ansehen",
+    "alt": "mehrere Layouts"
+  },
+
+  "whatWeDo": {
+    "title": "Was wir tun",
+    "paragraph": "Wir sind darauf spezialisiert, innovative Lösungen zu liefern, die Kreativität und Technologie vereinen. Von Branding und digitalem Marketing bis hin zu modernem Webdesign und -entwicklung schaffen wir einzigartige Strategien, die die Präsenz Ihrer Marke verbessern und eine Verbindung zu Ihrem Publikum herstellen.",
+    "btn": "Mehr erfahren",
+    "carousel": [
+      {
+        "src": "/images/home/carousel/political-strategy.jpg",
+        "alt": "Ein Strategietreffen mit politischen Führern",
+        "title": "Politische Strategie",
+        "paragraph": "Wir sind für Frieden ausgebildet und vorbereitet, aber nicht wirklich auf das, was uns in der realen Welt begegnet.",
+        "items": [
+          "Strategie",
+          "Umfragen",
+          "Regierungen, politische Parteien",
+          "Präsidenten",
+          "Gouverneure, Bürgermeister",
+          "Senatoren und Abgeordnete"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/metaverse-development.jpg",
+        "alt": "Ein virtueller Raum mit futuristischen Designs",
+        "title": "Metaverse-Entwicklung",
+        "paragraph": "Wir helfen Unternehmen, ihre neuen virtuellen Räume zu erstellen und zu betreiben, in denen sie die Präsenz, Vorschläge und Kreativität ihrer Marke erweitern können.",
+        "items": [
+          "NFT (Non-Fungible Token)",
+          "Marken-Wearables",
+          "Digitale Räume",
+          "Blockchain",
+          "Brandverse",
+          "Web 3.0"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/branding-graphic-design.jpg",
+        "alt": "Kreative Werkzeuge und Markendesigns",
+        "title": "Branding und Grafikdesign",
+        "paragraph": "Wir betrachten nicht nur einen Aspekt einer Marke. Wir betrachten das gesamte Erlebnis: wie eine Marke aussieht, spricht, sich verhält, fühlt und träumt.",
+        "items": [
+          "Logos und Ikonografie",
+          "Markenhandbuch",
+          "Marken-Look & Feel",
+          "Produktverpackung und -design",
+          "Werbung und Kreativität",
+          "Bücher, Cover und Magazine"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/branded-content.jpg",
+        "alt": "Content-Erstellung für Marken",
+        "title": "Marken-Content",
+        "paragraph": "Die Bedeutung der Erstellung von Inhalten, die Geschichten, Erlebnisse und neue Verbindungen ansprechen.",
+        "items": [
+          "Spezielle und interaktive Projekte",
+          "Animationen und immersive Videos",
+          "Gamification, virtuelle Realität",
+          "360-Strategien",
+          "Influencer und politisches Marketing",
+          "Drohnen"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/interactive-web-development.jpg",
+        "alt": "Webdesign auf mehreren Geräten",
+        "title": "Interaktive Webentwicklung",
+        "paragraph": "Wir entwerfen Erlebnisse, die die digitale Welt revolutionieren. Von Web-Erlebnissen bis hin zu E-Commerce.",
+        "items": [
+          "Responsives Webdesign",
+          "Content-Management-System",
+          "E-Commerce",
+          "Digitale Markenentwicklung",
+          "Interaktive Landingpages",
+          "Customer Relationship Management"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/social-media-strategy.jpg",
+        "alt": "Planung von Social-Media-Strategien",
+        "title": "Social-Media-Strategie",
+        "paragraph": "Wir entwickeln klare Strategien, die Ihre Ziele, Ihre Kunden und die Aktivitäten Ihrer Konkurrenz berücksichtigen.",
+        "items": [
+          "Markenaufbau in sozialen Medien",
+          "Werbung",
+          "Content-Entwicklung",
+          "Community-Management",
+          "Metrik- und Datenanalyse",
+          "Strategischer Plan"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/apps.jpg",
+        "alt": "App-Oberfläche auf einem Handy",
+        "title": "APPS (iOS & Android)",
+        "paragraph": "Nach einem Jahrzehnt beginnt ein Paradigmenwechsel in der Online-Kommunikation und im Einsatz von künstlicher Intelligenz.",
+        "items": [
+          "Integration sozialer Medien",
+          "Geolokalisierung",
+          "Push-Benachrichtigungen",
+          "In-Apps",
+          "Interaktive Spiele",
+          "E-Commerce (Amazon, Shopify, etc.)",
+          "Events, Karten und mehr"
+        ]
+      },
+      {
+        "src": "/images/home/carousel/editorial-design.jpg",
+        "alt": "Kreative Buchdesigns",
+        "title": "Editorial Design",
+        "paragraph": "Das kreative Konzept ist einer der wichtigsten Aspekte für das Marketing und den Erfolg bei der Veröffentlichung Ihres Buches.",
+        "items": [
+          "Professionelles Cover-Design",
+          "Druckfertige PDF in hoher Auflösung",
+          "Professionelles Layout für den Druck",
+          "Design von Rückseite und Buchrücken",
+          "Konzepterstellung",
+          "3D-Rendering von Büchern"
+        ]
+      }
+    ]
+  },
+
+  "recognitions": {
+    "title": "Auszeichnungen und Anerkennungen, die wir auf unserem Weg erhalten haben",
+    "paragraph": "„Das Geheimnis der Freude an der Arbeit liegt in einem Wort – Exzellenz. Zu wissen, wie man etwas gut macht, bedeutet, es zu genießen.“ ― Pearl S. Buck"
+  },
+
+  "experience": {
+    "title": "Kreativität und Erlebnisse, die verbinden",
+    "paragraph": "Leidenschaftlich erfinderisch und unermüdlich neugierig strebt Dogo Creativo danach, die Verbindung in allem, was wir tun, zu entdecken. Entdecken Sie unsere Arbeit und sehen Sie, wie wir Menschen über Plattformen, Erlebnisse und Kulturen hinweg vereinen.",
+    "btn": "Unsere Erfahrung"
+  }
+}

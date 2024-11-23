@@ -1,0 +1,24 @@
+{
+  "routes": [
+    {
+      "name": "Laman Utama",
+      "path": "/"
+    },
+    {
+      "name": "Penyelesaian",
+      "path": "/solutions"
+    },
+    {
+      "name": "Pengalaman Kami",
+      "path": "/hire-me"
+    },
+    {
+      "name": "Pasukan",
+      "path": "/hire-me"
+    },
+    {
+      "name": "Hubungi Kami",
+      "path": "/hire-me"
+    }
+  ]
+}

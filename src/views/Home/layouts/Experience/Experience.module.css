@@ -1,0 +1,9 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: var(--space-y) var(--space-x);
+  min-height: 60vh;
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+{
+  "routes": [
+    {
+      "name": "Inicio",
+      "path": "/"
+    },
+    {
+      "name": "Soluciones",
+      "path": "/solutions"
+    },
+    {
+      "name": "Nuestra Experiencia",
+      "path": "/hire-me"
+    },
+    {
+      "name": "Equipo",
+      "path": "/hire-me"
+    },
+    {
+      "name": "Contáctanos",
+      "path": "/hire-me"
+    }
+  ]
+}

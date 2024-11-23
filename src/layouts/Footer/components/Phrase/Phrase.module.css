@@ -1,0 +1,28 @@
+.phrase {
+	place-self: end;
+	width: 70%;
+}
+.phrase > path {
+	stroke: var(--color-primary);
+	fill: transparent;
+	stroke-width: 0.5px;
+	stroke-dasharray: 300;
+	stroke-dashoffset: 300;
+}
+
+.animatePhrase path {
+	animation: animatePhrase 3s ease-in-out forwards;
+}
+
+@keyframes animatePhrase {
+	0% {
+		stroke-dashoffset: 300;
+	}
+	30% {
+		fill: transparent;
+	}
+	100% {
+		fill: var(--color-primary);
+		stroke-dashoffset: 0;
+	}
+}
