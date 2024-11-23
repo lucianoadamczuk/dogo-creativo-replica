@@ -7,6 +7,8 @@ import HireMe from './views/HireMe/HireMe';
 import Home from './views/Home/Home';
 import NotFound from './views/NotFound/NotFound';
 import Solutions from './views/solutions/Solutions';
+import { Helmet } from 'react-helmet';
+import { useTranslation } from 'react-i18next';
 
 const AppRoutes = () => {
 	const { pathname } = useLocation();
@@ -32,9 +34,13 @@ const AppRoutes = () => {
 };
 
 function App() {
+	const { t } = useTranslation('metadata');
 	return (
 		<>
 			<Suspense fallback={<Loading />}>
+				<Helmet>
+					<meta name='description' content={t('description')} />
+				</Helmet>
 				<BrowserRouter>
 					<AppRoutes />
 				</BrowserRouter>

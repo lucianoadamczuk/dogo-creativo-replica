@@ -12,7 +12,7 @@
 
 /* ---------------------------------- sizes --------------------------------- */
 :root {
-	--size-title-big: clamp(4rem, 4rem + 2vw, 8rem);
+	--size-title-big: clamp(3rem, 3rem + 2vw, 8rem);
 	--size-title: clamp(2.5rem, 2.5rem + 2vw, 4rem);
 	--size-subtitle: 2rem;
 	--size-base: 1.6rem;
@@ -76,6 +76,8 @@ html {
 }
 
 body {
+	width: 100%;
+	min-width: 320px;
 	background-color: var(--color-light);
 	color: var(--color-dark);
 	font-size: var(--size-base);

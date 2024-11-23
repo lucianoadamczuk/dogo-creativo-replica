@@ -1,4 +1,6 @@
 .header {
+	width: 100%;
+	max-width: 100%;
 	display: grid;
 	place-items: center;
 	gap: var(--space-lg);
